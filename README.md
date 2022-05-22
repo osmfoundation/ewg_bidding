@@ -12,6 +12,6 @@ Below you will find links to current project ideas open for proposal. Click on t
 
 * [Ability to block other users](/projects/ability-to-block-other-users) (put your proposal folder [here](/projects/ability-to-block-other-users/proposals))
 
-Proposals should go in the `/proposals` folder nested under the corresponding project folder. Proposals should be structured as a single README doc alongside any other assets contained in folder with your name (or Github username if you prefer) and the date of your PR, i.e. `/joshn_smith-DD-MM-YYYY`.
+Proposals should go in the `/proposals` folder for the corresponding project. Proposals should be structured as a single README doc alongside any other assets contained in folder with your name (or Github username if you prefer) and the date of your PR, i.e. `/joshn_smith-DD-MM-YYYY`.
 
 Should you have any questions about the EWG, the funding process, or your proposal, do not hesitate to contact us at [engineering@osmfoundation.org](mailto:engineering@osmfoundation.org).
