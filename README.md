@@ -4,7 +4,7 @@ This is the Engineering Working Group's repository for managing the project fund
 
 ### Project Funding Process
 
-Project funding proposals are made as pull requests on Github against this repository. Before making your funnding proposal, please acquaint yourself with the project funding process described in the following document:
+Project funding proposals are made as pull requests on Github against this repository. Before making your funding proposal, please acquaint yourself with the project funding process described in the following document:
 
 * [The Project Funding Framework](https://wiki.osmfoundation.org/wiki/Engineering_Working_Group/Project_Funding_Framework)
 
