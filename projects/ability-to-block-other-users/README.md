@@ -10,8 +10,8 @@ Users who receive abusive messages currently have to report the message writer a
 
 The expected deliverable is a mergeable pull request towards https://github.com/openstreetmap/openstreetmap-website. It must at least
 - have a list per user of the other blocked users based on their user ids in the database
-- must not show in the inbox of a user any message from a user who's user id is on the blacklist
-- comprise an UI such that a user can see and change his blocks of fellow users (by user id and current user name)
+- must not show in the inbox of a user any message from a user whose user id is on the blacklist
+- comprise a UI such that a user can see and change their blocks of fellow users (by user id and current user name)
 - declare the business logic how past and future messages are handled in both the Inbox UI and the data model in cases of blocking and unblocking
 - cover the intended functionality and all control flow paths by tests
 
