@@ -11,6 +11,7 @@ Users who receive unwanted messages currently have to report the message writer 
 The expected deliverable is a mergeable pull request towards https://github.com/openstreetmap/openstreetmap-website. It must at least
 - have a list per user of the other muted users based on their user ids in the database
 - must not show in the inbox of a user any message from a user whose user id is on the blacklist
+- must also not show any notifications to a user from a user whose user id is on the blacklist
 - comprise a UI such that a user can see and change which users they have muted (by user id and current user name)
 - declare the business logic how past and future messages are handled in both the Inbox UI and the data model in cases of muting and unmuting
 - cover the intended functionality and all control flow paths by tests
