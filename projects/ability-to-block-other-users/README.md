@@ -1,6 +1,6 @@
 ## Block other users
 
-Users who receive abusive messages currently have to report the message writer and wait for an administrator to take action. The OpenStreetMap website should make it possible for anyone to painlessly block (ignore) private messages (but not comments on changesets) from another user.
+Users who receive unwanted messages currently have to report the message writer and wait for an administrator to take action. The OpenStreetMap website should make it possible for anyone to painlessly block (ignore) private messages (but not comments on changesets) from another user.
 
 * Project: [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
 * Related issues:
