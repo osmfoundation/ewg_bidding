@@ -18,4 +18,4 @@ Should you have any questions about the EWG, the funding process, or your propos
 
 Below you will find links to current project ideas open for proposal. Click on the link of the project relating to your proposal to see details.
 
-* [Ability to block other users](/projects/ability-to-block-other-users) (put your proposal folder [here](/projects/ability-to-block-other-users/proposals))
+* [Ability to mute other users](/projects/ability-to-mute-other-users) (put your proposal folder [here](/projects/ability-to-mute-mute-users/proposals))
