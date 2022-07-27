@@ -1,6 +1,6 @@
 ## Mute other users
 
-Users who receive unwanted messages to their [openstreetmap.org message inbox](https://www.openstreetmap.org/messages/inbox) currently have to report the message writer and wait for an administrator to take action. The OpenStreetMap website should make it possible for anyone to painlessly mute (ignore) private messages (but not comments on changesets) from another user.
+Users who receive unwanted messages to their [openstreetmap.org message inbox](https://www.openstreetmap.org/messages/inbox) currently have to report the message writer and wait for an administrator to take action. The OpenStreetMap website should make it possible for anyone to painlessly mute (ignore) private messages from another user.
 
 * Project: [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
 * Related:
