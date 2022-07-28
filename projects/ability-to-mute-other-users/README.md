@@ -9,7 +9,8 @@ Users who receive unwanted messages to their [openstreetmap.org message inbox](h
 
 The expected deliverable is a mergeable pull request towards https://github.com/openstreetmap/openstreetmap-website. It must at least:
 - not display messages sent from user A in user B's inbox if user B has muted user A (this includes messages sent by responding to email notifications)
-- not show any notifications to a user from muted user, including email notifications sent alongside messages
+- not show any message notifications to a user from a muted user, including email notifications sent alongside messages
+- otherwise preserve existing notification functionality for changesets, notes, diaries, etc.
 - comprise a UI such that a user can view and change which users they have muted
 - not allow admins and moderators to be muted
 - declare the business logic how past and future messages are handled in both the Inbox UI and the data model in case of muting and unmuting
