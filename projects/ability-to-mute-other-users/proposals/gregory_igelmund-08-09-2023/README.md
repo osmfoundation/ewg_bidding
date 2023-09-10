@@ -81,6 +81,16 @@ Here is also a good place to add a small text block explaining e.g. that users w
 
 ![Step5](images/osm-mute-users-step5.png)
 
+## Details on muted Messages
+
+Muted Messages are flagged so that they appear in a separate Inbox. The `muted`-flag is independant of the status/lifecycle of the `UserMute` which initially caused the message to be muted.
+
+If necessary/required I can imagine to allow users to remove the `muted`-flag from messages, so that those messages are moved into the regular Inbox.
+
+## Other applications / Outlook
+
+I was briefed that UserMutes could be extended to not only cover private messages but also other communication channels, e.g. to Comments to Changesets or Blogpost Comments.
+
 
 ## Notes on the Scoring criteria
 
