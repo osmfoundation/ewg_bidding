@@ -8,7 +8,7 @@ The goal of this project is to refactor the existing notes implementation on the
   - maybe https://github.com/openstreetmap/openstreetmap-website/pull/3934
 
 The expected deliverable is a mergeable pull request towards https://github.com/openstreetmap/openstreetmap-website. It must at least:
-- Follow the idea of a refactoring by changing as little as reasonable by improving the underlying code structure
+- Follow the idea of a refactoring by changing as little as possible in behaviour and improving the underlying code structure
 - Handle the UI part – Map, Forms, Lists, …
 - Handle the API part – without any breaking changes to the API
 - Handle the Data migration of existing data – discuss details with the operations team
