@@ -17,15 +17,20 @@ The expected deliverable is a mergeable pull request towards https://github.com/
 - Include a wireframe of all proposed UI changes
 - Conform to the [CONTRIBUTING.md doc](https://github.com/openstreetmap/openstreetmap-website/blob/master/CONTRIBUTING.md)
 
-## Side effects
+## Positive effects of this project
 
-A side effect of this refactoring will be that a recurring error 500 will not be possible anymore, see https://github.com/openstreetmap/openstreetmap-website/issues/2146 for more.
+**Remove bugs and improve stability:**
 
-## Possible follow up projects
+- There are situations when the Notes API returns an error 500 right now. This refactoring will solve the underlying issue. There are multiple issues and even more dupliactes on this topic, eg. https://github.com/openstreetmap/openstreetmap-website/issues/2146.
+- It will also solve edgecases like https://github.com/openstreetmap/openstreetmap-website/issues/3396
+- It will make the API more stable and easier to handle for data consumers of the API as well. StreetComplete and NotesReview (https://github.com/ENT8R/NotesReview/issues/113) are two apps that reported related problems.
+- It will make proposed workarounds obsolete which will make the code simpler and reduce maintance burdens, eg. https://github.com/openstreetmap/openstreetmap-website/pull/3617, https://github.com/openstreetmap/openstreetmap-website/issues/3744, https://github.com/openstreetmap/openstreetmap-website/pull/3607, https://github.com/openstreetmap/openstreetmap-website/pull/3608
 
-This refactoring will unblock follow possible follow up improvements to the website and api that are not being worked on ATM due to the outdated foundation of the notes system.
+**Solid foundation for follow up projects:**
 
-For example:
+There are multiple issues discussing additions to the notes system. They all require a solid foundation which this project will provide. For example:
 
 - Add a `source` flag to notes and comments to indicate the app or website that created the note/comment, see https://github.com/openstreetmap/openstreetmap-website/issues/3932
-- Update the notes UI, related to https://github.com/openstreetmap/openstreetmap-website/pull/3386
+- Extend the API for moderation use cases, see https://github.com/openstreetmap/openstreetmap-website/pull/3934
+- Update the list-of-notes-UI, see https://github.com/openstreetmap/openstreetmap-website/pull/3386
+- Add tags (or similar) to notes, see for example https://github.com/openstreetmap/openstreetmap-website/issues/3932#issuecomment-1440222022
