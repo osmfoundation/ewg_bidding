@@ -12,7 +12,7 @@ The expected deliverable is a mergeable pull request towards https://github.com/
 - Handle the UI part – Map, Forms, Lists, …
 - Handle the API part – without any breaking changes to the API
 - Handle the Data migration of existing data – discuss details with the operations team
-- Handle freatures related to moderation and administration
+- Handle features related to moderation and administration
 - Handle special cases for blocked users, hidden or removed notes and similar cases
 - Include a wireframe of all proposed UI changes
 - Conform to the [CONTRIBUTING.md doc](https://github.com/openstreetmap/openstreetmap-website/blob/master/CONTRIBUTING.md)
