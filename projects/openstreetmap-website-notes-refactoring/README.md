@@ -32,7 +32,7 @@ For example:
 
 There are multiple issues discussing additions to the notes system. They all require a solid foundation which this project will provide. For example:
 
-- Improve notes/comments with an optional information on the app or website that created the note/comment, see https://github.com/openstreetmap/openstreetmap-website/issues/3932
+- Improve notes/comments with optional details on the app or website that created the note/comment, see https://github.com/openstreetmap/openstreetmap-website/issues/3932
 - Extend the API for moderation use cases, see https://github.com/openstreetmap/openstreetmap-website/pull/3934
 - Update the list-of-notes-UI, see https://github.com/openstreetmap/openstreetmap-website/pull/3386
 - Add tags (or similar) to notes, see for example https://github.com/openstreetmap/openstreetmap-website/issues/3932#issuecomment-1440222022
