@@ -20,7 +20,7 @@ Click on the project link relating to your proposal to see more details.
 
 ### Requesting proposals
 
-We currently have no projects looking for proposals.
+* [OpenStreetMap-Website: Refactor Notes](/projects/openstreetmap-website-notes-refactoring)
 
 ### In Development 
 
