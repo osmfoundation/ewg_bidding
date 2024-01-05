@@ -1,4 +1,9 @@
-## Mute other users
+## Mute other users (completed)
+
+> [!NOTE]
+> This project [was completed](https://github.com/openstreetmap/openstreetmap-website/pull/4284) and is live on openstreetmap.org
+
+---
 
 Users who receive unwanted messages to their [openstreetmap.org message inbox](https://www.openstreetmap.org/messages/inbox) currently have to report the message writer and wait for an administrator to take action. The OpenStreetMap website should make it possible for anyone to painlessly mute (ignore) private messages from another user.
 
