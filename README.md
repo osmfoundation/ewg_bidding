@@ -24,4 +24,8 @@ Click on the project link relating to your proposal to see more details.
 
 ### In Development 
 
+-
+
+### Completed
+
 * [Ability to mute other users](/projects/ability-to-mute-other-users)
