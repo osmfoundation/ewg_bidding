@@ -20,11 +20,11 @@ Click on the project link relating to your proposal to see more details.
 
 ### Requesting proposals
 
-* [OpenStreetMap-Website: Refactor Notes](/projects/openstreetmap-website-notes-refactoring)
+* There are currently no projects awaiting proposals
 
 ### In Development 
 
--
+* [OpenStreetMap-Website: Refactor Notes](/projects/openstreetmap-website-notes-refactoring)
 
 ### Completed
 
