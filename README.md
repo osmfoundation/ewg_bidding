@@ -8,6 +8,19 @@ Project funding proposals are made as pull requests on Github against this repos
 
 * [The Project Funding Framework](https://wiki.osmfoundation.org/wiki/Engineering_Working_Group/Project_Funding_Framework)
 
+### Payment milestones
+
+10% of project total can be invoiced when:
+* Project approach has been discussed with and agreed with maintainers
+
+A further 50% of project total can be invoiced when:
+* PR has been created
+* PR is ready for review by maintainers
+* EWG has reviewed PR and agrees that all required features are implemented
+
+Remaining 40% can be invoiced:
+* Feedback has been incorporated and PR has been merged
+
 ## Submitting your proposal
 
 Proposals should go in the `/proposals` folder for the corresponding project. Proposals should be structured as a single README doc alongside any other assets contained in a folder with your name (or Github username if you prefer) and the date of your PR, i.e. `/john_smith-DD-MM-YYYY`.
