@@ -4,6 +4,7 @@
 **Grantee:** [Name / GitHub handle]  
 **Date:** [Start date]  
 **Repository/Issue Link:** [Link to proposal or issue]
+**Proposal Link:** https://github.com/osmfoundation/ewg_bidding/issues/[issue-number-here]
 
 ---
 
