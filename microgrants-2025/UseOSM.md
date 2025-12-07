@@ -4,7 +4,7 @@
 
 **Grantee:** [Emmanuel Ayodele Jolaiya](https://github.com/jeafreezy)
 
-**Date:** [July 11th, 2025](https://github.com/unpatterned-labs/useosm/issues/2)
+**Date:** [December 7th, 2025](https://github.com/unpatterned-labs/useosm/issues/2)
 
 **Repository Link:** [https://github.com/unpatterned-labs/useosm](https://github.com/unpatterned-labs/useosm)
 
