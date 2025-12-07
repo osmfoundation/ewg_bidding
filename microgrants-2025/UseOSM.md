@@ -31,12 +31,17 @@ Reference: [Project Kanban Board](https://github.com/orgs/unpatterned-labs/proje
 ## 2. Timeline & Milestones
 The Grantee commits to the following schedule:  
 - **Milestone 1:** [UI/UX Design](https://github.com/unpatterned-labs/useosm/issues/1) —  (Completed) 
-- **Milestone 2:** [Community Feedback on Design](https://github.com/unpatterned-labs/useosm/issues/14) —  (Completed) 
-- **Milestone 3:** [Core Site Development](https://github.com/unpatterned-labs/useosm/issues/41) — Due February 2026.
+- **Milestone 2:** [Community Feedback on Design](https://github.com/unpatterned-labs/useosm/issues/14) —  (Completed)
+  
+  First Payout: €2,800 January 2026.
+- **Milestone 3:** [Core Website Development Finalization](https://github.com/unpatterned-labs/useosm/issues/41) — Due February 2026.
 - **Milestone 4:** [Use Cases Content Research](https://github.com/unpatterned-labs/useosm/issues/56) — Due March 2026.
 - **Milestone 5:** Hackathon/Mapathon Planning and Outreach — Due April 2026.
-- **Milestone 6:** Public Launch at SotM Global — Due June 2026.  
+  
+  Second Payout: €2,062 April 2026.
+- **Milestone 6:** Public Launch at SotM Global — Due June 2026.
 - **Final Deliverable:**  Complete [UseOSM](useosm.org) website and microgrant report. - Due June 2026.
+  
 
 Progress updates must be posted as comments on the GitHub issue or repository.
 
