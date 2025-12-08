@@ -5,7 +5,7 @@
 **Grantee:** 
   - [Emmanuel Ayodele Jolaiya](https://github.com/jeafreezy)
   - [Ademoyero Victor](https://github.com/vickystickz)
-  - [Olanrewaju Michael](https://github.com/vickystickz)
+  - [Olanrewaju Michael](https://github.com/oluwateemi)
   - [Dennis Irorere](https://github.com/denironyx)
 
 **Date:** [December 7th, 2025](https://github.com/unpatterned-labs/useosm/issues/2)
