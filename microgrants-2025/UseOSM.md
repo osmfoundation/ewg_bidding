@@ -2,7 +2,11 @@
 
 **Project Title:** UseOSM
 
-**Grantee:** [Emmanuel Ayodele Jolaiya](https://github.com/jeafreezy)
+**Grantee:** 
+  - [Emmanuel Ayodele Jolaiya](https://github.com/jeafreezy)
+  - [Ademoyero Victor](https://github.com/vickystickz)
+  - [Olanrewaju Michael](https://github.com/vickystickz)
+  - [Dennis Irorere](https://github.com/denironyx)
 
 **Date:** [December 7th, 2025](https://github.com/unpatterned-labs/useosm/issues/2)
 
@@ -70,5 +74,5 @@ By accepting this contract, the Grantee agrees to:
 ---
 
 **Signed by:**  
-- Grantee: __Emmanuel Ayodele Jolaiya__ 
+- Grantee: __Emmanuel Ayodele Jolaiya, Ademoyero Victor, Olanrewaju Michael, Dennis Irorere__ 
 - Committee Representative: ________________________
