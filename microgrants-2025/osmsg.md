@@ -85,4 +85,5 @@ By accepting this contract, the Grantee agrees to:
 
 **Signed by:**  
 - Grantee: _______OSGeo Nepal_________________  
-- Committee Representative: _________Kshitij Raj Sharma_______________
+- _________Kshitij Raj Sharma_______________
+- Committee Representative: Adam Hoyle (Engineering Working Group)
