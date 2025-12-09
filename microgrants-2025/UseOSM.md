@@ -75,4 +75,4 @@ By accepting this contract, the Grantee agrees to:
 
 **Signed by:**  
 - Grantee: __Emmanuel Ayodele Jolaiya, Ademoyero Victor, Olanrewaju Michael, Dennis Irorere__ 
-- Committee Representative: ________________________
+- Committee Representative: Adam Hoyle (Engineering Working Group)
