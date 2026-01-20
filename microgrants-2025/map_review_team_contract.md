@@ -78,4 +78,4 @@ By accepting this contract, the Grantee agrees to:
 **Signed by:**
 
 - Grantee: __Tom Hukins__ (8th December 2025)
-- Committee Representative: ________________________
+- Committee Representative: Adam Hoyle (Engineering Working Group)

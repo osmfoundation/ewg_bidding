@@ -53,4 +53,4 @@ By accepting this contract, the Grantee agrees to:
 
 **Signed by:**  
 - Grantee: Sam Woodcock @ HOTOSM
-- Committee Representative: ________________________
+- Committee Representative: Adam Hoyle (Engineering Working Group)
