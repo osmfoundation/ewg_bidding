@@ -5,7 +5,7 @@
 | January 2026  | [OSM Apps Catalog](Redesign_of_the_OSM_Apps_Catalog_to_reach_a_wider_audience.md)  | Milestone 1: App Store-style interface, Daily featured app, Full multilingual support, Developer-focused section | - | 
 | January 2026 | [UseOSM](UseOSM.md) | Milestone 1: UI/UX Design <br/> Milestone 2: Community Feedback on Design | - |
 | January 2026 | [OSMSG](osmsg.md) | Milestone 1: Detailed Implementation Plan | - |
-| Jannuary 2026 | [Waterway Map](waterwaymap_org.md) | Final Deliverable: Pay a year of hosting | - |
+| January 2026 | [Waterway Map](waterwaymap_org.md) | Final Deliverable: Pay a year of hosting | - |
 | February 2026  | [OSM Apps Catalog](Redesign_of_the_OSM_Apps_Catalog_to_reach_a_wider_audience.md)  | Final Deliverable: App categorization algorithm, Category-specific detail views, Donation prompt & transparency, Documentation & Project Communication | - |
 | February 2026 | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Milestone 1: Gather requirements from community | - |
 | March 2026 | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Milestone 2: Implementation and testing of new form category types | - |
