@@ -82,6 +82,7 @@ Time spend on editing OpenStreetMap wiki, making tagging proposals, making bot e
 
 - maybe this funds can be spend better
     * if someone has good ideas, then EWG/OSMF board is likely interested in hearing about them
+    * not spending funds and keeping them in reserve may also makes sense
 - other volunteer contributors may feel discouraged if a single person is being paid and they are not
 - reviewing issues and PR inherently means that some will be rejected and closed, some people may prefer them to stay untouched rather than being processed
 - OSM tagging schemas are at times controversial, I may do dumb mistake or a controversial decision - and there were some tagging-related dramas in past. Though I like to believe that I am doing fairly well at judging those and avoiding bad sides of both (1) "I am God Emperor of OSM and I decided that tagging will look like this, everyone must obey my edict" and (2) being helpless and unable to declare obviously terrible idea not supported by community as something that should be WONTFIXed on sight.
