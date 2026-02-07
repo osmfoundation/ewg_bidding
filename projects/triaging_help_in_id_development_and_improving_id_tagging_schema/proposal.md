@@ -76,6 +76,8 @@ I am proposing initial trial run for 12 weeks, with average of two days per week
 
 Time spend on editing OpenStreetMap wiki, making tagging proposals, making bot edits, discussion on OpenStreetMap forums would NOT be covered by this proposal and would NOT be paid for.
 
+192 hours at 14 GBP per hour would bring costs to 192*14 = 2688 GBP.
+
 ## Known risks
 
 - maybe this funds can be spend better
