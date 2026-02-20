@@ -74,6 +74,8 @@ If that proposal will not be accepted I would be happy to continue contributing 
 
 I am proposing initial trial run for 12 weeks, with average of two days per week, for total of 192 hours of work. With evaluation whether project is considered as worth continuing both from perspective of myself, iD maintainer, EWG and consensus of OpenStreetMap community - with continuation if all parties are in agreement that it is a good idea.
 
+12 weeks plan would start on 2026-02-20, and end before 2026-05-15.
+
 Time spend on editing OpenStreetMap wiki, making tagging proposals, making bot edits, discussion on OpenStreetMap forums would NOT be covered by this proposal and would NOT be paid for.
 
 192 hours at 14 GBP per hour would bring costs to 192*14 = 2688 GBP.
