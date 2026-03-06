@@ -2,7 +2,7 @@
 
 | Date  | Project | Details | Status | 
 | ------------- | ------------- | ------------- | ------------- |
-| January 2026  | [OSM Apps Catalog](Redesign_of_the_OSM_Apps_Catalog_to_reach_a_wider_audience.md)  | Milestone 1: App Store-style interface, Daily featured app, Full multilingual support, Developer-focused section | - | 
+| January 2026  | [OSM Apps Catalog](Redesign_of_the_OSM_Apps_Catalog_to_reach_a_wider_audience.md)  | Milestone 1: App Store-style interface, Daily featured app, Full multilingual support, Developer-focused section | Completed <br/> [ASSI](https://github.com/users/ToastHawaii/projects/1?pane=issue&itemId=120978516), [DFA](https://github.com/users/ToastHawaii/projects/1?pane=issue&itemId=120978339), [FMS](https://github.com/users/ToastHawaii/projects/1?pane=issue&itemId=120978516), [DFS](https://github.com/users/ToastHawaii/projects/1?pane=issue&itemId=120978101) | 
 | January 2026 | [UseOSM](UseOSM.md) | Milestone 1: UI/UX Design <br/> Milestone 2: Community Feedback on Design | - |
 | January 2026 | [OSMSG](osmsg.md) | Milestone 1: Detailed Implementation Plan | - |
 | January 2026 | [Waterway Map](waterwaymap_org.md) | Final Deliverable: Pay a year of hosting | - |
