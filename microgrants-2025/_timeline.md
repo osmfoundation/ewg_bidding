@@ -19,6 +19,6 @@
 | June 2026 | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Final Deliverable: a working solution for field mapping various OSM categories | - |
 | July 2026 | [OSMSG](osmsg.md) | Milestone 3: Production Release | - |
 | August 2026 | [OSMSG](osmsg.md) | Milestone 4: Public Launch & Final Reporting | - |
-| ? | [StreetComplete](streetcomplete.md) | [#1798](https://github.com/streetcomplete/StreetComplete/issues/1798) | - |
+| ? | [StreetComplete](streetcomplete.md) | [#1798](https://github.com/streetcomplete/StreetComplete/issues/1798) | Completed |
 | ? | [StreetComplete](streetcomplete.md) | [#1797](https://github.com/streetcomplete/StreetComplete/issues/1797) | - |
 | ? | [StreetComplete](streetcomplete.md) | [#1796](https://github.com/streetcomplete/StreetComplete/issues/1796) | - |
