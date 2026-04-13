@@ -9,12 +9,12 @@
 | February 2026 | - | [OSM Apps Catalog](Redesign_of_the_OSM_Apps_Catalog_to_reach_a_wider_audience.md)  | Final Deliverable: App categorization algorithm, Category-specific detail views, Donation prompt & transparency, Documentation & Project Communication | - | 2350€ (50%) |
 | February 2026 | - | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Milestone 1: Gather requirements from community | - | - |
 | March 2026 | - | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Milestone 2: Implementation and testing of new form category types | - | - |
-| March 2026 | - | [Map Review Team](map_review_team_contract.md) | Milestone 1: Web Application | - | - |
+| March 2026 | - | [Map Review Team](map_review_team_contract.md) | Milestone 1: Web Application | - | €3300 (55%) pay in GBP, see contract |
 | April 2026 | - | [UseOSM](UseOSM.md) | Milestone 3: Core Website Development Finalization <br/> Milestone 4: Use Cases Content Research <br/> Milestone 5: Hackathon/Mapathon Planning and Outreach | - | 2062€ (42.41%) |
 | April 2026 | - | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Milestone 3: Expansion of field mapping forms into QField with simple mapping workflows | - | - |
 | April 2026 | - | [OSMSG](osmsg.md) | Milestone 2: Alpha Version Release | - | 1000€ (25%) |
 | May 2026 | - | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Milestone 4: Field testing with OSM Sierra Leone in Freetown | - | - |
-| May 2026 | - | [Map Review Team](map_review_team_contract.md) | Final Deliverable: Completion | - | - |
+| May 2026 | - | [Map Review Team](map_review_team_contract.md) | Final Deliverable: Completion | - | €2700 (45%) pay in GBP, see contract |
 | June 2026 | - | [UseOSM](UseOSM.md) | Milestone 6: Public Launch at SotM Global <br/> Final Deliverable: Complete UseOSM website and microgrant report | - | 0€ (0%) |
 | June 2026 | - | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Final Deliverable: a working solution for field mapping various OSM categories | - | - |
 | July 2026 | - | [OSMSG](osmsg.md) | Milestone 3: Production Release | - | 1000€ (25%) |
