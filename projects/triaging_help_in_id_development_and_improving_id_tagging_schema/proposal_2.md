@@ -114,7 +114,7 @@ If that proposal will not be accepted I would be happy to continue contributing 
 
 I am attempting to get funding for the same purpose from nlnet, with proposal submitted in late 2025.
 
-If it would be succesful then I would use up both, but obviously given time would be used for one of the, not both at the same time.
+If it would be succesful then I would use up both, but obviously given time would be used for one of them, not both at the same time.
 
 ## Proposal history
 
