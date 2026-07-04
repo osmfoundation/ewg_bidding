@@ -14,7 +14,7 @@
 | April 2026 | - | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Milestone 3: Expansion of field mapping forms into QField with simple mapping workflows | - | - |
 | April 2026 | - | [OSMSG](osmsg.md) | Milestone 2: Alpha Version Release | - | 1000€ (25%) |
 | May 2026 | - | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Milestone 4: Field testing with OSM Sierra Leone in Freetown | - | - |
-| May 2026 | - | [Map Review Team](map_review_team_contract.md) | Final Deliverable: Completion | - | €2700 (45%) pay in GBP, see contract |
+| May 2026 | - | ~~[Map Review Team](map_review_team_contract.md)~~ | ~~Final Deliverable: Completion~~ | - | ~~€2700 (45%) pay in GBP, see contract~~ withdrawn |
 | June 2026 | - | [UseOSM](UseOSM.md) | Milestone 6: Public Launch at SotM Global <br/> Final Deliverable: Complete UseOSM website and microgrant report | - | 0€ (0%) |
 | June 2026 | - | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Final Deliverable: a working solution for field mapping various OSM categories | - | - |
 | July 2026 | - | [OSMSG](osmsg.md) | Milestone 3: Production Release | - | 1000€ (25%) |
