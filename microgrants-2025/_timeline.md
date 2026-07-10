@@ -3,8 +3,8 @@
 | Expected Date | Actual Completion Date | Project | Details | Status | Amount |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | December 2025 | ? |  [Waterway Map](waterwaymap_org.md) | Final Deliverable: Pay a year of hosting | Completed<br>Paid | 150€ (100%) |
-| January 2026  | February 2026 | [OSM Apps Catalog](Redesign_of_the_OSM_Apps_Catalog_to_reach_a_wider_audience.md)  | Milestone 1: [App Store-style interface](https://github.com/users/ToastHawaii/projects/1?pane=issue&itemId=120978516), [Daily featured app](https://github.com/users/ToastHawaii/projects/1?pane=issue&itemId=120978339), [Full multilingual support](https://github.com/users/ToastHawaii/projects/1?pane=issue&itemId=120978516), [Developer-focused section](https://github.com/users/ToastHawaii/projects/1?pane=issue&itemId=120978101) | Completed | 2350€ (50%) |
-| January 2026 | October 2025 | [UseOSM](UseOSM.md) | Milestone 1: [UI/UX Design](https://github.com/unpatterned-labs/useosm/issues/1) <br/> Milestone 2: [Community Feedback on Design](https://github.com/unpatterned-labs/useosm/issues/14) | Completed (before contract signing) | 2800€ (57.59%) |
+| January 2026  | February 2026 | [OSM Apps Catalog](Redesign_of_the_OSM_Apps_Catalog_to_reach_a_wider_audience.md)  | Milestone 1: [App Store-style interface](https://github.com/users/ToastHawaii/projects/1?pane=issue&itemId=120978516), [Daily featured app](https://github.com/users/ToastHawaii/projects/1?pane=issue&itemId=120978339), [Full multilingual support](https://github.com/users/ToastHawaii/projects/1?pane=issue&itemId=120978516), [Developer-focused section](https://github.com/users/ToastHawaii/projects/1?pane=issue&itemId=120978101) | Completed<br>Paid | 2350€ (50%) |
+| January 2026 | October 2025 | [UseOSM](UseOSM.md) | Milestone 1: [UI/UX Design](https://github.com/unpatterned-labs/useosm/issues/1) <br/> Milestone 2: [Community Feedback on Design](https://github.com/unpatterned-labs/useosm/issues/14) | Completed (before contract signing)<br>Paid | 2800€ (57.59%) |
 | January 2026 | February 2026 | [OSMSG](osmsg.md) | [Milestone 1: Detailed Implementation Plan](https://github.com/osgeonepal/OSMSG/issues/3) | Completed | 1000€ (25%) |
 | February 2026 | - | [OSM Apps Catalog](Redesign_of_the_OSM_Apps_Catalog_to_reach_a_wider_audience.md)  | Final Deliverable: App categorization algorithm, Category-specific detail views, Donation prompt & transparency, Documentation & Project Communication | - | 2350€ (50%) |
 | February 2026 | - | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Milestone 1: Gather requirements from community | - | - |
@@ -15,10 +15,10 @@
 | April 2026 | - | [OSMSG](osmsg.md) | Milestone 2: Alpha Version Release | - | 1000€ (25%) |
 | May 2026 | - | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Milestone 4: Field testing with OSM Sierra Leone in Freetown | - | - |
 | May 2026 | - | ~~[Map Review Team](map_review_team_contract.md)~~ | ~~Final Deliverable: Completion~~ | - | ~~€2700 (45%) pay in GBP, see contract~~ withdrawn |
-| June 2026 | - | [UseOSM](UseOSM.md) | Milestone 6: Public Launch at SotM Global <br/> Final Deliverable: Complete UseOSM website and microgrant report | - | 0€ (0%) |
+| June 2026 | - | [UseOSM](UseOSM.md) | Milestone 6: Public Launch at SotM Global <br/> Final Deliverable: Complete UseOSM website and microgrant report | -<br>Paid (no payment needed) | 0€ (0%) |
 | June 2026 | - | [Field verified OpenStreetMap data](field-verified-osm-data.md) | Final Deliverable: a working solution for field mapping various OSM categories | - | - |
 | July 2026 | - | [OSMSG](osmsg.md) | Milestone 3: Production Release | - | 1000€ (25%) |
 | August 2026 | - | [OSMSG](osmsg.md) | Milestone 4: Public Launch & Final Reporting | - | 1000€ (25%) |
-| ? | February 2026 | [StreetComplete](streetcomplete.md) | [#1798](https://github.com/streetcomplete/StreetComplete/issues/1798) | Completed | 2200€ (40%) |
-| ? | - | [StreetComplete](streetcomplete.md) | [#1797](https://github.com/streetcomplete/StreetComplete/issues/1797) | - | 2200€ (40%) |
-| ? | - | [StreetComplete](streetcomplete.md) | [#1796](https://github.com/streetcomplete/StreetComplete/issues/1796) | - | 1100€ (20%) |
+| ? | February 2026 | [StreetComplete](streetcomplete.md) | [#1798](https://github.com/streetcomplete/StreetComplete/issues/1798) | Completed<br>Paid | 2200€ (40%) |
+| ? | - | [StreetComplete](streetcomplete.md) | [#1797](https://github.com/streetcomplete/StreetComplete/issues/1797) | -<br>Paid | 2200€ (40%) |
+| ? | - | [StreetComplete](streetcomplete.md) | [#1796](https://github.com/streetcomplete/StreetComplete/issues/1796) | -<br>Paid | 1100€ (20%) |
