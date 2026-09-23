@@ -20,5 +20,5 @@
 | July 2026 | September 2026 | [OSMSG](osmsg.md) | Milestone 3: [Production Release](https://github.com/osgeonepal/osmsg/milestone/3) | <ul><li>- [x] Completed</li><!--<li>- [x] Paid</li>--></ul> | 1000€ (25%) |
 | August 2026 | September 2026 | [OSMSG](osmsg.md) | Milestone 4: [Public Launch & Final Reporting](https://github.com/osgeonepal/osmsg/milestone/4) | Completed<br> | 1000€ (25%) |
 | ? | February 2026 | [StreetComplete](streetcomplete.md) | [Inform user of local community events](https://github.com/streetcomplete/StreetComplete/issues/1798) | <ul><li>- [x] Completed</li><li>- [x] Paid</li></ul> | 2200€ (40%) |
-| ? | - | [StreetComplete](streetcomplete.md) | [Show local community channels](https://github.com/streetcomplete/StreetComplete/issues/1797) | <ul><li>- [] Completed</li><li>- [x] Paid</li></ul> | 2200€ (40%) |
-| ? | February 2026 | [StreetComplete](streetcomplete.md) | [RSS Reader for weeklyosm](https://github.com/streetcomplete/StreetComplete/issues/1796) | <ul><li>- [] Completed</li><li>- [x] Paid</li></ul> | 1100€ (20%) |
+| ? | - | [StreetComplete](streetcomplete.md) | [Show local community channels](https://github.com/streetcomplete/StreetComplete/issues/1797) | <ul><li>- [ ] Completed</li><li>- [x] Paid</li></ul> | 2200€ (40%) |
+| ? | February 2026 | [StreetComplete](streetcomplete.md) | [RSS Reader for weeklyosm](https://github.com/streetcomplete/StreetComplete/issues/1796) | <ul><li>- [x] Completed</li><li>- [x] Paid</li></ul> | 1100€ (20%) |
